@@ -1,0 +1,12 @@
+19:15:16.884 [http-nio-8080-exec-1] TRACE com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld trace file 
+19:15:16.884 [http-nio-8080-exec-1] INFO  com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld info file 
+19:15:16.884 [http-nio-8080-exec-1] DEBUG com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld debug file 
+19:15:16.884 [http-nio-8080-exec-1] WARN  com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld warn file 
+19:15:16.884 [http-nio-8080-exec-1] ERROR com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld error file 
+19:15:16.894 [http-nio-8080-exec-1] FATAL com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld fatal file 
+19:50:09.256 [http-nio-8080-exec-1] TRACE com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld trace file 
+19:50:09.257 [http-nio-8080-exec-1] INFO  com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld info file 
+19:50:09.257 [http-nio-8080-exec-1] DEBUG com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld debug file 
+19:50:09.257 [http-nio-8080-exec-1] WARN  com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld warn file 
+19:50:09.257 [http-nio-8080-exec-1] ERROR com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld error file 
+19:50:09.257 [http-nio-8080-exec-1] FATAL com.niket.log4j.Log4jApplication.controller.Log4jController - Got the request for /helloWorld fatal file 
